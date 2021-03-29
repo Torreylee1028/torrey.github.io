@@ -30,4 +30,4 @@ The final database contained information on asteroids, how much they would be wo
 
 
 ### Repository
-[Asteroid Project Repository](https://github.com/Torreylee1028/Asteroids-Data-Preparation)
+[Asteroid Project Repo](https://github.com/Torreylee1028/Asteroids-Data-Preparation)
