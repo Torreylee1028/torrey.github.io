@@ -5,13 +5,13 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Torrey C"
+title                    : "Torrey Capobianco | Portfolio"
 title_separator          : "-"
-name                     : "Torrey C"
+name                     : "Torrey Capobianco"
 description              : "Data Science Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -88,7 +88,7 @@ author:
   avatar           : "/images/profile-pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Orange County, CA"
-  email            :
+  email            : "torreylee1028@yahoo.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
