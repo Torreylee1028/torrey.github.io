@@ -2,7 +2,8 @@
 layout: archive
 ---
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Welcome" }}</h3>
+<h3 class="archive__subtitle">{{ "Welcome" }}</h3>
+
 
 {% for post in paginator.posts %}
   {% include archive-single.html %}
@@ -11,6 +12,6 @@ layout: archive
 {% include paginator.html %}
 
 <body>
-  “Uncovering the unknown through data is like taking a photo in pitch black. Setting tweaks through long camera exposures and focusing in the dark on the unknown, the insights and layers start to shine through, presenting themselves, uncovering the features and truth that stand before you.” - Me
+  “Uncovering the unknown through data is like taking a photo in pitch black. Setting tweaks through long camera exposures and focusing in the dark on the unknown, the insights and layers start to shine through, presenting themselves, uncovering the features and truth that were hidden before you.” - Me
 
 </body>
