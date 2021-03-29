@@ -1,13 +1,11 @@
 ---
 title: "Asteroids"
-date: 2020-05-26
+date: 2021-03-28
 tags: [data preparation, pandas]
 header:
 excerpt: "Data cleaning and preparation with pandas."
 mathjax: "true"
 ---
-
-# Asteroids
 
 ## Data Cleaning and Preparation
 
