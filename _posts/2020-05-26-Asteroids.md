@@ -3,7 +3,7 @@ title: "Asteroids"
 date: 2020-05-26
 tags: [data preparation, pandas]
 header:
-excerpt: "Data cleaning and preparation with pandas.""
+excerpt: "Data cleaning and preparation with pandas."
 mathjax: "true"
 ---
 
